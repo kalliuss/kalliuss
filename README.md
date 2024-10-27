@@ -1,4 +1,4 @@
-<h1 align="center">Merhaba 👋, ben Kaan Bilgili</h1>
+<h1 align="center">Merhaba 👋, ben Kaan</h1>
 <h3 align="center">Türkiye</h3>
 
 - 🌱 Şu anda **Java, JavaScript, NodeJS** öğreniyorum
