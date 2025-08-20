@@ -3,7 +3,7 @@
 
 - 🌱 Şu anda **Java, JavaScript, NodeJS** öğreniyorum
 
-- 📫 Bana nasıl ulaşabilirsiniz **kalliusdev@gmail.com**
+- 📫 Bana nasıl ulaşabilirsiniz **kalliusdev@gmail.com | instagram.com/kalliuss**
 
 <h3 align="left">Benimle iletişime geçin:</h3>
 <p align="left">
