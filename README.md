@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kalliuss" alt="kalliuss" /></a> </p>
 
-- 🔭 Şu anda [🤖 Yapay Zeka ve Veri Bilimi Öğrenimi] üzerinde çalışıyorum. Yolculuk](https://github.com/kalliuss/AI-DataScience-Learning-Journey)
+- 🔭 Şu anda [Mobile Programlama / Mobile Development] üzerinde çalışıyorum. 
 
 - 🌱 Şu anda **JavaScript, Python, SQL ve Yapay Zeka çerçevelerini** öğreniyorum.**
 
