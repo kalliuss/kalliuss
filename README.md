@@ -7,7 +7,7 @@
 
 - 🔭 Şu anda [Mobil Programlama / Mobile Development] üzerinde çalışıyorum. 
 
-- 🌱 Şu anda **JavaScript, Python, SQL ve Yapay Zeka çerçevelerini** öğreniyorum.**
+- 🌱 Şu anda **JavaScript, Python, SQL ve Yapay Zeka (Prompt) çerçevelerini** öğreniyorum.**
 
 - 👨‍💻 Tüm projelerim [github.com/kalliuss](github.com/kalliuss) adresinde mevcuttur
 
