@@ -6,11 +6,9 @@
 
 - 🔭 Şu anda [Mobil Programlama / Mobile Development] üzerinde çalışıyorum. 
 
-- 🌱 Şu anda **JavaScript, SQL ve Yapay Zeka (Prompt) çerçevelerini** öğreniyorum.**
+- 🌱 Şu anda **Dart & Flutter** öğreniyorum.**
 
 - 👨‍💻 Tüm projelerim [github.com/kalliuss](github.com/kalliuss) adresinde mevcuttur
-
-- 💬 Bana **JS, Java, belki Python :)** hakkında sorular sorun
 
 - 📫 Bana nasıl ulaşabilirsiniz **kalliusdev@gmail.com**
 
