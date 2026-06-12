@@ -6,7 +6,7 @@
 
 - 🔭 Şu anda [Mobil Programlama / Mobile Development] üzerinde çalışıyorum. 
 
-- 🌱 Şu anda **Dart & Flutter** öğreniyorum.**
+- 🌱 Şu anda **Dart & Flutter** öğreniyorum.
 
 - 👨‍💻 Tüm projelerim [github.com/kalliuss](github.com/kalliuss) adresinde mevcuttur
 
