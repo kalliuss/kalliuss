@@ -4,9 +4,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kalliuss&label=Profile%20views&color=0e75b6&style=flat" alt="kalliuss" /> </p>
 
 
-- 🔭 Şu anda [Mobil Programlama / Mobile Development] üzerinde çalışıyorum. 
+- 🔭 Şu anda [AI Engineer] üzerinde çalışıyorum. 
 
-- 🌱 Şu anda **Dart & Flutter** öğreniyorum.
+- 🌱 Şu anda **Python ve Mühendislik temelleri** öğreniyorum.
 
 - 👨‍💻 Tüm projelerim [github.com/kalliuss](github.com/kalliuss) adresinde mevcuttur
 
