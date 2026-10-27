@@ -7,7 +7,7 @@
 
 ## 👤 Hakkımda
 
-Ostim Teknik Üniversitesi'nde **Yönetim Bilişim Sistemleri** okuyorum, bilgisayar mühendisliğinde yan dal yapıyorum. İş ile teknoloji arasındaki köprüyü kurmak, YBS'nin tam ortasında durduğu nokta ve beni en çok çeken kısım bu.
+Ostim Teknik Üniversitesi'nde **Yönetim Bilişim Sistemleri** okuyorum. İş ile teknoloji arasındaki köprüyü kurmak, YBS'nin tam ortasında durduğu nokta ve beni en çok çeken kısım bu.
 
 Kariyer hedefim **İş Analisti** olarak başlayıp **Ürün Yöneticiliği (Product Manager)** veya **Proje Yöneticiliği** yönüne ilerlemek. Bunun için ihtiyaçları anlamayı, süreçleri analiz etmeyi ve teknik ekiplerle ortak dilde konuşabilmeyi önemsiyorum.
 
