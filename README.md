@@ -42,7 +42,6 @@ Yazılım tarafı benim için bir meslek değil, **öğrenme ve üretme alışka
 | 🤖 [**kallius-bot**](https://github.com/kalliuss/kallius-bot) | Discord botum | JavaScript · Node.js · discord.js |
 | ✅ [**HabitTrack.JS-v1**](https://github.com/kalliuss/HabitTrack.JS-v1) | Alışkanlık takip uygulaması | JavaScript |
 | 🔐 [**Password-Generator**](https://github.com/kalliuss/Password-Generator) | Güvenli parola üretici | HTML · CSS · JavaScript |
-| 🗺️ [**Roadmap**](https://github.com/kalliuss/Roadmap) | JS-TS öğrenme yol haritası | JavaScript |
 | 📝 [**text-analysis-tool**](https://github.com/kalliuss/text-analysis-tool) | Metin analiz aracı | HTML · JavaScript |
 
 > 💡 Projelerimin çoğu öğrenme odaklı mini projeler. Her biriyle bir konuyu, bir araç setini ya da bir problemi daha iyi anlamayı hedefliyorum.
